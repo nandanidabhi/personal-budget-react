@@ -14,7 +14,6 @@ function Footer() {
         </div>  
             &nbsp;
             <div className="cell small-12 fn-icons center" > 
-            <img src="profile.jpg" className="img-fluid" alt="Image of the owner"/>
             <div>All rights reserved &copy; Nandani Dabhi</div>
         </div>
         </div>
